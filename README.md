@@ -29,7 +29,7 @@ USER_KEY = "user"
 PASSWORD_KEY = "password"
 
 ## (Optional) - Change folder
-folder = "movie-data/"
+folder = "Data-for-Tableau/"
 ```
 
 
